@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 💻 I love to learn new technologies and frameworks.
+ 💻 I love to learn new technologies and frameworks.<br>
   🌱 I’m currently learning **Data Structures and Algorithms **
