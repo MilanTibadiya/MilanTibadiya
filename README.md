@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/milan-tibadiya-659386206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan tibadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/milan____2_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milan____2_4" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/aUPhtbpx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/aUPhtbpx" height="30" width="40" /></a>
+ <a href="https://instagram.com/milan____2_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milan____2_4" height="30" width="40" /></a>
+ <a href="https://discord.gg/VvF4mrp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/aUPhtbpx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" height="40">Languages and Tools:</h3>
@@ -30,6 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milantibadiya&" alt="milantibadiya" /></p>
 
+
+ <p align="center" height="100px"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
    
 
 
