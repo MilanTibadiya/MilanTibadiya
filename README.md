@@ -10,7 +10,7 @@
 
 💻 I love to learn new technologies and frameworks.<br>
 
-🌱 I’m currently learning **DSA,React...**
+<!-- 🌱 I’m currently learning **DSA,React...** -->
 
 📫 How to reach me **tibadiyamilan@gmail.com**
 
