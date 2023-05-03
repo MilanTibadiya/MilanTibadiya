@@ -11,7 +11,9 @@
 
 💻 I love to learn new technologies and frameworks.<br>
 🌱 I'm currently focusing on Data Structures and Algorithms.<br>
-
+👯 I'd really like to collaborate on React based projects.<br>
+📚 I'm looking forward to contribute to Open Source Projects.<br>
+💬 Ask me about ...anything i will try to help you if i can.<br>
 
 <!-- 🌱 I’m currently learning **DSA,React...** -->
 
