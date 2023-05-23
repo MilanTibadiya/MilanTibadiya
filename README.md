@@ -9,11 +9,11 @@
 <p align="left">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-💻 I love to learn new technologies and frameworks.<br>
-🌱 I'm currently focusing on Data Structures and Algorithms.<br>
+💻 I love to learn new technologies and frameworks. <br>
+🌱 I'm currently focusing on Data Structures and Algorithms. <br>
 👯 I'd really like to collaborate on React based projects.<br>
-📚 I'm looking forward to contribute to Open Source Projects.<br>
-💬 Ask me about ...anything i will try to help you if i can.<br>
+📚 I'm looking forward to contribute to Open Source Projects. <br>
+💬 Ask me about ...anything i will try to help you if i can. <br>
 <!-- 🌱 I’m currently learning **DSA,React...** -->
 
 📫 How to reach me **tibadiyamilan@gmail.com**
